@@ -69,15 +69,6 @@ Zoya/
 ---
 
 
-## 🔒 License
-
-This project is **proprietary and closed-source**.
-
-© 2026 **Abhishek Yadav**. All Rights Reserved.
-
-This code is **not open source** and is intended for **personal/product use only**. Unauthorized copying, modification, distribution, or use of this project, in whole or in part, is strictly prohibited without explicit permission from the owner.
-
----
 
 ---
 
