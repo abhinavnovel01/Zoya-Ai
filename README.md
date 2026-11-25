@@ -78,6 +78,5 @@ Zoya/
 
 **[🔗 Visit Zoya AI Now](https://zoya-navy.vercel.app)**
 
-Made with ❤️ and TypeScript by **Abhishek Yadav**
 
 </div>
