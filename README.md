@@ -79,17 +79,6 @@ This code is **not open source** and is intended for **personal/product use only
 
 ---
 
-## 👨‍💻 Author
-
-<div align="center">
-
-**Abhishek Yadav**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Abhishekyadav264-181717?style=for-the-badge&logo=github)](https://github.com/Abhishekyadav264)
-[![Website](https://img.shields.io/badge/Website-Zoya_AI-6C5CE7?style=for-the-badge&logo=vercel)](https://zoya-navy.vercel.app)
-
-</div>
-
 ---
 
 <div align="center">
